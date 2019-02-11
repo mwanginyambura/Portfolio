@@ -16,7 +16,7 @@ None are known at the moment.
 
 ## Support and contact details
 you can reach me through:mwanginyambura19@gmail.com
-### License
+# License
 *MIT*
 copyright (c) 2019
 *Mwangi Nyambura*
