@@ -1,5 +1,5 @@
 # Portfolio
-#### A brief description about my portfolo
+# Author
 #### By **Margy Mwangi**
 ## Description
 This website has all the details concerning the myself and how to reach me.
