@@ -2,7 +2,7 @@
 # Author
 #### By **Margy Mwangi**
 ## Description
-This website has all the details concerning the myself and how to reach me.
+This website has all the details concerning myself and how to reach me.
 ## Setup/Installation Requirements
 * Open browser.*Run to my pages on Github pages*
 ##Get link
