@@ -3,6 +3,9 @@
 #### By **Margy Mwangi**
 ## Description
 This website has all the details concerning myself and how to reach me.
+# tech used
+#### HTML
+#### styles,css
 ## Setup/Installation Requirements
 * Open browser.*Run to my pages on Github pages*
 ##Get link
