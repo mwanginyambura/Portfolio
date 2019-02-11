@@ -7,7 +7,7 @@ This website has all the details concerning myself and how to reach me.
 #### HTML
 #### styles.css
 ## Setup/Installation Requirements
- Open browser.*Run to my pages on Github pages*
+ Open browser.
 ## Get link
  To find go through:
 
