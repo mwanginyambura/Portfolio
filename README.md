@@ -3,7 +3,7 @@
 #### By **Margy Mwangi**
 ## Description
 This website has all the details concerning myself and how to reach me.
-# tech used
+# Tech used
 #### HTML
 #### styles.css
 ## Setup/Installation Requirements
