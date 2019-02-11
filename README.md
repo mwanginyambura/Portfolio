@@ -15,7 +15,7 @@ This website has all the details concerning myself and how to reach me.
 None are known at the moment.
 
 ## Support and contact details
-you can reach me through:mwanginyambura19@gmail.com
+You can reach me through:mwanginyambura19@gmail.com
 # License
 *MIT*
 copyright (c) 2019
