@@ -9,7 +9,7 @@ This website has all the details concerning myself and how to reach me.
 ## Setup/Installation Requirements
  Open browser.
 ## Get link
- To find go through:
+ To find go through:https://mwanginyambura.github.io/Portfolio/
 
 ## Known Bugs
 None are known at the moment.
