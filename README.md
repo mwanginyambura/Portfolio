@@ -5,15 +5,15 @@
 This website has all the details concerning myself and how to reach me.
 # tech used
 #### HTML
-#### styles,css
+#### styles.css
 ## Setup/Installation Requirements
 * Open browser.*Run to my pages on Github pages*
 ##Get link
-*To find go through:https://github.com/mwanginyambura/Portfolio*
+*To find go through:
+
 ## Known Bugs
 None are known at the moment.
-## Technologies Used
-HTML and CSS.
+
 ## Support and contact details
 Contact me at +254717848538.
 ### License
